@@ -1,0 +1,30 @@
+/* Globale stiler */
+
+Html {
+    box-sizing: border-box;
+    position: relative;
+    min-height: 100%;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    margin: 0;
+    min-height: 100vh;
+  }
+  
+  h1,
+  h2,
+  h3,
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  /* Home */
+
+  .head-text {
+      font-size: 3em;
+  }
